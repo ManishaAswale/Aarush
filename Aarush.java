@@ -20,3 +20,4 @@ public static void main(String[] args) {
 
 }
 >>>>>>> Stashed changes
+new data is added
